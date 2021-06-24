@@ -33,7 +33,7 @@ curl --location --request POST 'http://localhost:7777/api/cartoes' \
 --header 'Content-Type: application/json' \
 --data-raw '{
   "id": "5541da9c-79c5-44fb-b701-cc50ed07b45d",
-  "email": "luram.archanjo@zup.com.br"
+  "email": "xxxx@anonimo.com.br"
 }'
 A partir do momento do estimulo, será gerado uma transação a cada 5 minutos, caso deseja parar a geração de transação, devemos remover o mesmo do sistema bancário, conforme exemplo abaixo:
 
